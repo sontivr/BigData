@@ -1,0 +1,2 @@
+# had to install tweepy
+sudo easy_install-2.7 tweepy
